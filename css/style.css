@@ -1361,6 +1361,7 @@ background: linear-gradient(#7272d9fa, #0000FF), url(../img/hero-bg.jpg);    bac
     color: #0000FF;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
+	border: 2px solid;
 }
 
 .contact .contact-form .btn:hover {
